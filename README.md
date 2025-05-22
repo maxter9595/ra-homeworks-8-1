@@ -5,7 +5,7 @@
 ```
 cd ra-homeworks-8-1
 npm install
-npm start
+npm run dev
 ```
 
 ## Деплой
